@@ -1,2 +1,2 @@
-# Big-Mart-Sales-Prediction-XGBRegressor
+# Big Mart Sales Prediction-XGBRegressor
 
